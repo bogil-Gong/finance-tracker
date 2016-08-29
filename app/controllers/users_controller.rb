@@ -5,4 +5,8 @@ class UsersController < ApplicationController
     @user = current_user
   end
 
+  def my_friends
+    #code
+  end
+
 end
